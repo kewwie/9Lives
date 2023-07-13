@@ -1,4 +1,4 @@
-# 10Lives
+# 9Lives
 Is a datapack where you get 10 lives, you start with one heart and every time you die you get one more until you have used all of your lives.
 
 ## Features
